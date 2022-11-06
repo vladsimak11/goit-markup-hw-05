@@ -556,7 +556,7 @@ header {
   line-height: 1.6;
 }
 
-.portfolio-box:hover .portfolio-overlay {
+.portfolio-flex > .item:hover .portfolio-overlay {
   transform: translateY(0);
 }
 
